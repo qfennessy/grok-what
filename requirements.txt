@@ -1,0 +1,39 @@
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+playwright>=1.40.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# NLP & Text Analysis
+spacy>=3.7.0
+sentence-transformers>=2.2.0
+transformers>=4.35.0
+textstat>=0.7.3
+difflib2>=0.1.0
+
+# Diff Algorithms
+diff-match-patch>=20230430
+python-Levenshtein>=0.23.0
+
+# Analysis & Metrics
+scikit-learn>=1.3.0
+nltk>=3.8.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+tqdm>=4.66.0
+colorlog>=6.8.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
