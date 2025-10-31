@@ -21,9 +21,9 @@ class GrokipediaScraper(BaseScraper):
 
     def get_page_url(self, topic: str) -> str:
         """Construct Grokipedia URL for a topic"""
-        # Grokipedia might use a similar URL structure to Wikipedia
+        # Grokipedia uses /page/ instead of /wiki/
         encoded_topic = quote(topic.replace(" ", "_"))
-        return f"{self.BASE_URL}/wiki/{encoded_topic}"
+        return f"{self.BASE_URL}/page/{encoded_topic}"
 
     def parse_page(self, html: str, url: str) -> PageContent:
         """

@@ -71,6 +71,10 @@ class TopicSampler:
             # Calculate sample size for this category based on weight
             category_sample_size = int(total_size * category.weight)
 
+            # Skip categories with no topics defined
+            if not category.topics:
+                continue
+
             # Sample topics (with replacement if needed)
             if len(category.topics) >= category_sample_size:
                 sampled = random.sample(category.topics, category_sample_size)

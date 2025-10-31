@@ -1,0 +1,74 @@
+================================================================================
+GROKIPEDIA VS WIKIPEDIA COMPARISON REPORT
+================================================================================
+Generated: 2025-10-31 15:31:21
+Total Pages Analyzed: 43
+================================================================================
+
+## OVERALL STATISTICS
+
+Average Similarity: 13.76%
+High Similarity: 0 pages
+Medium Similarity: 2 pages
+Low Similarity: 41 pages
+Average Word Count Difference: 11593 words
+
+## SIMILARITY DISTRIBUTION
+
+Similarity Distribution (0.0 to 1.0):
+  0.0-0.1: █████████████████████████████ (29)
+  0.1-0.2: ███ (3)
+  0.2-0.3: ██ (2)
+  0.3-0.4: ███ (3)
+  0.4-0.5: ██ (2)
+  0.5-0.6: ██ (2)
+  0.6-0.7: ██ (2)
+  0.7-0.8:  (0)
+  0.8-0.9:  (0)
+  0.9-1.0:  (0)
+
+## CONTENT ANALYSIS
+
+Pages longer on Grokipedia: 2
+Pages longer on Wikipedia: 41
+Pages with more citations on Grokipedia: 0
+Pages with more citations on Wikipedia: 43
+
+## NOTABLE DIFFERENCES
+
+Biggest word count difference: Joe Biden
+  77.9% difference
+Most unique sections on Grokipedia: Python (programming language)
+  16 unique sections
+Most unique sections on Wikipedia: United States
+  1 unique sections
+
+## TOP 10 MOST SIMILAR PAGES
+
+1. Voynich manuscript: 68.95% similarity
+2. Dancing plague of 1518: 68.54% similarity
+3. Fermat's Last Theorem: 55.87% similarity
+4. Calculus: 55.27% similarity
+5. Antikythera mechanism: 45.45% similarity
+6. Theory of Relativity: 41.98% similarity
+7. William Shakespeare: 34.83% similarity
+8. Periodic table: 33.74% similarity
+9. Solar System: 33.14% similarity
+10. Quantum mechanics: 27.96% similarity
+
+## TOP 10 MOST DIFFERENT PAGES
+
+1. Artificial intelligence: 0.52% similarity
+2. Immigration to the United States: 0.61% similarity
+3. COVID-19 pandemic: 0.63% similarity
+4. Cryptocurrency: 0.70% similarity
+5. The Beatles: 0.82% similarity
+6. The Beatles: 0.82% similarity
+7. Albert Einstein: 0.82% similarity
+8. Gun politics in the United States: 0.83% similarity
+9. Abortion: 0.86% similarity
+10. Taylor Swift: 0.89% similarity
+
+================================================================================
+END OF REPORT
+================================================================================

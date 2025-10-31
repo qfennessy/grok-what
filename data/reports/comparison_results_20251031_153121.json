@@ -1,0 +1,1077 @@
+[
+  {
+    "topic": "United States",
+    "text_similarity": 0.015928941948279807,
+    "similarity_category": "low",
+    "word_count_grokipedia": 25424,
+    "word_count_wikipedia": 33718,
+    "word_count_diff": -8294,
+    "word_count_diff_pct": -24.59813749332701,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 744,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.59% (low)",
+      "Wikipedia has 744 more citations (744 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:25:24.680339"
+  },
+  {
+    "topic": "World War II",
+    "text_similarity": 0.011293100812328642,
+    "similarity_category": "low",
+    "word_count_grokipedia": 28040,
+    "word_count_wikipedia": 28056,
+    "word_count_diff": -16,
+    "word_count_diff_pct": -0.05702879954376961,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 487,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.13% (low)",
+      "Wikipedia has 487 more citations (487 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:25:40.944335"
+  },
+  {
+    "topic": "Python (programming language)",
+    "text_similarity": 0.17061976343026122,
+    "similarity_category": "low",
+    "word_count_grokipedia": 7240,
+    "word_count_wikipedia": 11819,
+    "word_count_diff": -4579,
+    "word_count_diff_pct": -38.74270242829343,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 202,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Arithmetic operations",
+      "Cross-compilers to other languages",
+      "Deliverable",
+      "Design philosophy and features",
+      "Development environments",
+      "Expressions",
+      "Language Development",
+      "Languages influenced by Python",
+      "Libraries",
+      "Limitations",
+      "Naming",
+      "Other implementations",
+      "Performance",
+      "Statements and control flow",
+      "Types of Use",
+      "Unsupported implementations"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 17.06% (low)",
+      "Wikipedia version is 38.7% longer (11819 vs 7240 words)",
+      "Wikipedia has 202 more citations (202 vs 0)",
+      "Grokipedia has unique sections: Arithmetic operations, Cross-compilers to other languages, Deliverable",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:25:55.122040"
+  },
+  {
+    "topic": "Albert Einstein",
+    "text_similarity": 0.008198800454943419,
+    "similarity_category": "low",
+    "word_count_grokipedia": 10258,
+    "word_count_wikipedia": 25204,
+    "word_count_diff": -14946,
+    "word_count_diff_pct": -59.30011109347723,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 410,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.82% (low)",
+      "Wikipedia version is 59.3% longer (25204 vs 10258 words)",
+      "Wikipedia has 410 more citations (410 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:26:00.113045"
+  },
+  {
+    "topic": "Climate change",
+    "text_similarity": 0.009447893071429807,
+    "similarity_category": "low",
+    "word_count_grokipedia": 10597,
+    "word_count_wikipedia": 30087,
+    "word_count_diff": -19490,
+    "word_count_diff_pct": -64.77880812310964,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 517,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.94% (low)",
+      "Wikipedia version is 64.8% longer (30087 vs 10597 words)",
+      "Wikipedia has 517 more citations (517 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:26:06.284986"
+  },
+  {
+    "topic": "Artificial intelligence",
+    "text_similarity": 0.005245408177485437,
+    "similarity_category": "low",
+    "word_count_grokipedia": 17308,
+    "word_count_wikipedia": 32303,
+    "word_count_diff": -14995,
+    "word_count_diff_pct": -46.41983716682661,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 549,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.52% (low)",
+      "Wikipedia version is 46.4% longer (32303 vs 17308 words)",
+      "Wikipedia has 549 more citations (549 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:26:15.370640"
+  },
+  {
+    "topic": "The Beatles",
+    "text_similarity": 0.008154410350362155,
+    "similarity_category": "low",
+    "word_count_grokipedia": 13496,
+    "word_count_wikipedia": 35843,
+    "word_count_diff": -22347,
+    "word_count_diff_pct": -62.34690176603521,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 597,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.82% (low)",
+      "Wikipedia version is 62.3% longer (35843 vs 13496 words)",
+      "Wikipedia has 597 more citations (597 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:26:25.320294"
+  },
+  {
+    "topic": "COVID-19 pandemic",
+    "text_similarity": 0.006285625766339608,
+    "similarity_category": "low",
+    "word_count_grokipedia": 16173,
+    "word_count_wikipedia": 37490,
+    "word_count_diff": -21317,
+    "word_count_diff_pct": -56.860496132301954,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 762,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.63% (low)",
+      "Wikipedia version is 56.9% longer (37490 vs 16173 words)",
+      "Wikipedia has 762 more citations (762 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:26:46.426403"
+  },
+  {
+    "topic": "Solar System",
+    "text_similarity": 0.33139128408296437,
+    "similarity_category": "low",
+    "word_count_grokipedia": 9773,
+    "word_count_wikipedia": 23346,
+    "word_count_diff": -13573,
+    "word_count_diff_pct": -58.13843913304206,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 404,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Asteroid belt",
+      "Asteroids",
+      "Extreme trans-Neptunian objects",
+      "Inner planets",
+      "Kuiper belt",
+      "Outer planets",
+      "Scattered disc"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 33.14% (low)",
+      "Wikipedia version is 58.1% longer (23346 vs 9773 words)",
+      "Wikipedia has 404 more citations (404 vs 0)",
+      "Grokipedia has unique sections: Asteroid belt, Asteroids, Extreme trans-Neptunian objects",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:26:55.984205"
+  },
+  {
+    "topic": "William Shakespeare",
+    "text_similarity": 0.34832329038412774,
+    "similarity_category": "low",
+    "word_count_grokipedia": 7285,
+    "word_count_wikipedia": 17972,
+    "word_count_diff": -10687,
+    "word_count_diff_pct": -59.46472290229246,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 325,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 34.83% (low)",
+      "Wikipedia version is 59.5% longer (17972 vs 7285 words)",
+      "Wikipedia has 325 more citations (325 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:27:01.997509"
+  },
+  {
+    "topic": "The Beatles",
+    "text_similarity": 0.008154410350362155,
+    "similarity_category": "low",
+    "word_count_grokipedia": 13496,
+    "word_count_wikipedia": 35843,
+    "word_count_diff": -22347,
+    "word_count_diff_pct": -62.34690176603521,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 597,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.82% (low)",
+      "Wikipedia version is 62.3% longer (35843 vs 13496 words)",
+      "Wikipedia has 597 more citations (597 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:27:06.418497"
+  },
+  {
+    "topic": "United States",
+    "text_similarity": 0.015928941948279807,
+    "similarity_category": "low",
+    "word_count_grokipedia": 25424,
+    "word_count_wikipedia": 33718,
+    "word_count_diff": -8294,
+    "word_count_diff_pct": -24.59813749332701,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 744,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.59% (low)",
+      "Wikipedia has 744 more citations (744 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:27:20.656015"
+  },
+  {
+    "topic": "Taiwan",
+    "text_similarity": 0.014064610273685519,
+    "similarity_category": "low",
+    "word_count_grokipedia": 13611,
+    "word_count_wikipedia": 33090,
+    "word_count_diff": -19479,
+    "word_count_diff_pct": -58.866727107887584,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 643,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.41% (low)",
+      "Wikipedia version is 58.9% longer (33090 vs 13611 words)",
+      "Wikipedia has 643 more citations (643 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:27:35.532469"
+  },
+  {
+    "topic": "Gaza Strip",
+    "text_similarity": 0.014664432967548581,
+    "similarity_category": "low",
+    "word_count_grokipedia": 12866,
+    "word_count_wikipedia": 31698,
+    "word_count_diff": -18832,
+    "word_count_diff_pct": -59.41068837150609,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 452,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.47% (low)",
+      "Wikipedia version is 59.4% longer (31698 vs 12866 words)",
+      "Wikipedia has 452 more citations (452 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:27:46.591023"
+  },
+  {
+    "topic": "Cryptocurrency",
+    "text_similarity": 0.0069583835139836745,
+    "similarity_category": "low",
+    "word_count_grokipedia": 10695,
+    "word_count_wikipedia": 21052,
+    "word_count_diff": -10357,
+    "word_count_diff_pct": -49.197225916777505,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 338,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.70% (low)",
+      "Wikipedia version is 49.2% longer (21052 vs 10695 words)",
+      "Wikipedia has 338 more citations (338 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:27:59.688544"
+  },
+  {
+    "topic": "Joe Biden",
+    "text_similarity": 0.009228957004942254,
+    "similarity_category": "low",
+    "word_count_grokipedia": 10531,
+    "word_count_wikipedia": 47604,
+    "word_count_diff": -37073,
+    "word_count_diff_pct": -77.87790941937652,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 1028,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.92% (low)",
+      "Wikipedia version is 77.9% longer (47604 vs 10531 words)",
+      "Wikipedia has 1028 more citations (1028 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:28:10.197590"
+  },
+  {
+    "topic": "Abortion",
+    "text_similarity": 0.008556624253276078,
+    "similarity_category": "low",
+    "word_count_grokipedia": 13470,
+    "word_count_wikipedia": 22106,
+    "word_count_diff": -8636,
+    "word_count_diff_pct": -39.06631683705781,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 384,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.86% (low)",
+      "Wikipedia version is 39.1% longer (22106 vs 13470 words)",
+      "Wikipedia has 384 more citations (384 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:28:18.550527"
+  },
+  {
+    "topic": "Donald Trump",
+    "text_similarity": 0.01578721538705495,
+    "similarity_category": "low",
+    "word_count_grokipedia": 19618,
+    "word_count_wikipedia": 42613,
+    "word_count_diff": -22995,
+    "word_count_diff_pct": -53.96240583859385,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 909,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.58% (low)",
+      "Wikipedia version is 54.0% longer (42613 vs 19618 words)",
+      "Wikipedia has 909 more citations (909 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:28:27.388745"
+  },
+  {
+    "topic": "Immigration to the United States",
+    "text_similarity": 0.006102176128852125,
+    "similarity_category": "low",
+    "word_count_grokipedia": 13007,
+    "word_count_wikipedia": 29202,
+    "word_count_diff": -16195,
+    "word_count_diff_pct": -55.458530237654955,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 758,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.61% (low)",
+      "Wikipedia version is 55.5% longer (29202 vs 13007 words)",
+      "Wikipedia has 758 more citations (758 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:28:41.034437"
+  },
+  {
+    "topic": "Vladimir Putin",
+    "text_similarity": 0.01833463171638925,
+    "similarity_category": "low",
+    "word_count_grokipedia": 18248,
+    "word_count_wikipedia": 34170,
+    "word_count_diff": -15922,
+    "word_count_diff_pct": -46.59642961662277,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 628,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.83% (low)",
+      "Wikipedia version is 46.6% longer (34170 vs 18248 words)",
+      "Wikipedia has 628 more citations (628 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:28:53.286874"
+  },
+  {
+    "topic": "Gun politics in the United States",
+    "text_similarity": 0.008310866794806549,
+    "similarity_category": "low",
+    "word_count_grokipedia": 11243,
+    "word_count_wikipedia": 23515,
+    "word_count_diff": -12272,
+    "word_count_diff_pct": -52.18796512864129,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 334,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.83% (low)",
+      "Wikipedia version is 52.2% longer (23515 vs 11243 words)",
+      "Wikipedia has 334 more citations (334 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:02.870929"
+  },
+  {
+    "topic": "Quantum mechanics",
+    "text_similarity": 0.27959615000142807,
+    "similarity_category": "low",
+    "word_count_grokipedia": 7472,
+    "word_count_wikipedia": 12902,
+    "word_count_diff": -5430,
+    "word_count_diff_pct": -42.08649821733065,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 130,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 27.96% (low)",
+      "Wikipedia version is 42.1% longer (12902 vs 7472 words)",
+      "Wikipedia has 130 more citations (130 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:16.862684"
+  },
+  {
+    "topic": "Theory of Relativity",
+    "text_similarity": 0.41978692365501086,
+    "similarity_category": "low",
+    "word_count_grokipedia": 1971,
+    "word_count_wikipedia": 4282,
+    "word_count_diff": -2311,
+    "word_count_diff_pct": -53.97010742643624,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 40,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "General relativity",
+      "Special relativity"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 41.98% (low)",
+      "Wikipedia version is 54.0% longer (4282 vs 1971 words)",
+      "Wikipedia has 40 more citations (40 vs 0)",
+      "Grokipedia has unique sections: General relativity, Special relativity",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:20.760752"
+  },
+  {
+    "topic": "Calculus",
+    "text_similarity": 0.5527479588751134,
+    "similarity_category": "low",
+    "word_count_grokipedia": 5560,
+    "word_count_wikipedia": 10283,
+    "word_count_diff": -4723,
+    "word_count_diff_pct": -45.930176018671595,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 94,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 55.27% (low)",
+      "Wikipedia version is 45.9% longer (10283 vs 5560 words)",
+      "Wikipedia has 94 more citations (94 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:24.237573"
+  },
+  {
+    "topic": "Big Bang",
+    "text_similarity": 0.2780704321529607,
+    "similarity_category": "low",
+    "word_count_grokipedia": 8279,
+    "word_count_wikipedia": 15963,
+    "word_count_diff": -7684,
+    "word_count_diff_pct": -48.136315228966986,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 235,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Hubble's law and the expansion of the universe",
+      "Pre\u2013Big Bang cosmology"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 27.81% (low)",
+      "Wikipedia version is 48.1% longer (15963 vs 8279 words)",
+      "Wikipedia has 235 more citations (235 vs 0)",
+      "Grokipedia has unique sections: Hubble's law and the expansion of the universe, Pre\u2013Big Bang cosmology",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:28.363069"
+  },
+  {
+    "topic": "Machine learning",
+    "text_similarity": 0.013845822144691194,
+    "similarity_category": "low",
+    "word_count_grokipedia": 17145,
+    "word_count_wikipedia": 16466,
+    "word_count_diff": 679,
+    "word_count_diff_pct": 4.123648730717843,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 201,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.38% (low)",
+      "Wikipedia has 201 more citations (201 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:33.576142"
+  },
+  {
+    "topic": "Blockchain",
+    "text_similarity": 0.01366261298957202,
+    "similarity_category": "low",
+    "word_count_grokipedia": 9452,
+    "word_count_wikipedia": 13667,
+    "word_count_diff": -4215,
+    "word_count_diff_pct": -30.8407112021658,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 243,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.37% (low)",
+      "Wikipedia version is 30.8% longer (13667 vs 9452 words)",
+      "Wikipedia has 243 more citations (243 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:41.587112"
+  },
+  {
+    "topic": "Photosynthesis",
+    "text_similarity": 0.19519376308859815,
+    "similarity_category": "low",
+    "word_count_grokipedia": 7394,
+    "word_count_wikipedia": 12621,
+    "word_count_diff": -5227,
+    "word_count_diff_pct": -41.415101814436255,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 137,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Carbon dioxide levels and photorespiration",
+      "Factors",
+      "Light intensity (irradiance), wavelength and temperature",
+      "Photosynthetic eukaryotic lineages",
+      "Photosynthetic prokaryotic lineages"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 19.52% (low)",
+      "Wikipedia version is 41.4% longer (12621 vs 7394 words)",
+      "Wikipedia has 137 more citations (137 vs 0)",
+      "Grokipedia has unique sections: Carbon dioxide levels and photorespiration, Factors, Light intensity (irradiance), wavelength and temperature",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:47.329750"
+  },
+  {
+    "topic": "DNA",
+    "text_similarity": 0.09745646381180524,
+    "similarity_category": "low",
+    "word_count_grokipedia": 9433,
+    "word_count_wikipedia": 18042,
+    "word_count_diff": -8609,
+    "word_count_diff_pct": -47.71643941913313,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 251,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Base modifications and DNA packaging",
+      "Non-canonical bases"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 9.75% (low)",
+      "Wikipedia version is 47.7% longer (18042 vs 9433 words)",
+      "Wikipedia has 251 more citations (251 vs 0)",
+      "Grokipedia has unique sections: Base modifications and DNA packaging, Non-canonical bases",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:51.336527"
+  },
+  {
+    "topic": "Evolution",
+    "text_similarity": 0.011887835280785965,
+    "similarity_category": "low",
+    "word_count_grokipedia": 13349,
+    "word_count_wikipedia": 24103,
+    "word_count_diff": -10754,
+    "word_count_diff_pct": -44.616852673941004,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 400,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.19% (low)",
+      "Wikipedia version is 44.6% longer (24103 vs 13349 words)",
+      "Wikipedia has 400 more citations (400 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:29:55.877062"
+  },
+  {
+    "topic": "Periodic table",
+    "text_similarity": 0.33741636403974823,
+    "similarity_category": "low",
+    "word_count_grokipedia": 11163,
+    "word_count_wikipedia": 29578,
+    "word_count_diff": -18415,
+    "word_count_diff_pct": -62.25911150179188,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 612,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Periodic table"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 33.74% (low)",
+      "Wikipedia version is 62.3% longer (29578 vs 11163 words)",
+      "Wikipedia has 612 more citations (612 vs 0)",
+      "Grokipedia has unique sections: Periodic table",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:30:09.587286"
+  },
+  {
+    "topic": "ChatGPT",
+    "text_similarity": 0.019775572948490402,
+    "similarity_category": "low",
+    "word_count_grokipedia": 12885,
+    "word_count_wikipedia": 16257,
+    "word_count_diff": -3372,
+    "word_count_diff_pct": -20.741834286768775,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 318,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.98% (low)",
+      "Wikipedia has 318 more citations (318 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:30:15.259715"
+  },
+  {
+    "topic": "Barbie (film)",
+    "text_similarity": 0.01560562500574074,
+    "similarity_category": "low",
+    "word_count_grokipedia": 8410,
+    "word_count_wikipedia": 24393,
+    "word_count_diff": -15983,
+    "word_count_diff_pct": -65.52289591276185,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 432,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.56% (low)",
+      "Wikipedia version is 65.5% longer (24393 vs 8410 words)",
+      "Wikipedia has 432 more citations (432 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:30:20.589610"
+  },
+  {
+    "topic": "Elon Musk",
+    "text_similarity": 0.015573168067059969,
+    "similarity_category": "low",
+    "word_count_grokipedia": 10833,
+    "word_count_wikipedia": 27201,
+    "word_count_diff": -16368,
+    "word_count_diff_pct": -60.174258299327235,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 583,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.56% (low)",
+      "Wikipedia version is 60.2% longer (27201 vs 10833 words)",
+      "Wikipedia has 583 more citations (583 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:30:25.402418"
+  },
+  {
+    "topic": "Taylor Swift",
+    "text_similarity": 0.008948021046281712,
+    "similarity_category": "low",
+    "word_count_grokipedia": 11130,
+    "word_count_wikipedia": 34537,
+    "word_count_diff": -23407,
+    "word_count_diff_pct": -67.77369198251151,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 624,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 0.89% (low)",
+      "Wikipedia version is 67.8% longer (34537 vs 11130 words)",
+      "Wikipedia has 624 more citations (624 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:30:32.628777"
+  },
+  {
+    "topic": "2024 United States presidential election",
+    "text_similarity": 0.011938712743946766,
+    "similarity_category": "low",
+    "word_count_grokipedia": 13655,
+    "word_count_wikipedia": 39344,
+    "word_count_diff": -25689,
+    "word_count_diff_pct": -65.29331028873526,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 778,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.19% (low)",
+      "Wikipedia version is 65.3% longer (39344 vs 13655 words)",
+      "Wikipedia has 778 more citations (778 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:30:42.534086"
+  },
+  {
+    "topic": "OpenAI",
+    "text_similarity": 0.022877297833514998,
+    "similarity_category": "low",
+    "word_count_grokipedia": 9039,
+    "word_count_wikipedia": 14198,
+    "word_count_diff": -5159,
+    "word_count_diff_pct": -36.33610367657417,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 293,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 2.29% (low)",
+      "Wikipedia version is 36.3% longer (14198 vs 9039 words)",
+      "Wikipedia has 293 more citations (293 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:30:51.327758"
+  },
+  {
+    "topic": "CRISPR",
+    "text_similarity": 0.011003790194400294,
+    "similarity_category": "low",
+    "word_count_grokipedia": 12067,
+    "word_count_wikipedia": 12008,
+    "word_count_diff": 59,
+    "word_count_diff_pct": 0.4913391072618255,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 273,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 1.10% (low)",
+      "Wikipedia has 273 more citations (273 vs 0)",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:30:57.360870"
+  },
+  {
+    "topic": "Dancing plague of 1518",
+    "text_similarity": 0.6854037393032405,
+    "similarity_category": "medium",
+    "word_count_grokipedia": 1407,
+    "word_count_wikipedia": 2439,
+    "word_count_diff": -1032,
+    "word_count_diff_pct": -42.31242312423124,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 49,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 68.54% (medium)",
+      "Wikipedia version is 42.3% longer (2439 vs 1407 words)",
+      "Wikipedia has 49 more citations (49 vs 0)",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:31:03.181402"
+  },
+  {
+    "topic": "Antikythera mechanism",
+    "text_similarity": 0.4544859524544613,
+    "similarity_category": "low",
+    "word_count_grokipedia": 10109,
+    "word_count_wikipedia": 15435,
+    "word_count_diff": -5326,
+    "word_count_diff_pct": -34.505992873339814,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 247,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Front face",
+      "Rear face"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 45.45% (low)",
+      "Wikipedia version is 34.5% longer (15435 vs 10109 words)",
+      "Wikipedia has 247 more citations (247 vs 0)",
+      "Grokipedia has unique sections: Front face, Rear face",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:31:06.475903"
+  },
+  {
+    "topic": "Fermat's Last Theorem",
+    "text_similarity": 0.5586625359166573,
+    "similarity_category": "low",
+    "word_count_grokipedia": 7670,
+    "word_count_wikipedia": 12170,
+    "word_count_diff": -4500,
+    "word_count_diff_pct": -36.976170912078885,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 245,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Equivalent statements of the theorem",
+      "Ribet's theorem for Frey curves"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 55.87% (low)",
+      "Wikipedia version is 37.0% longer (12170 vs 7670 words)",
+      "Wikipedia has 245 more citations (245 vs 0)",
+      "Grokipedia has unique sections: Equivalent statements of the theorem, Ribet's theorem for Frey curves",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:31:12.708032"
+  },
+  {
+    "topic": "Voynich manuscript",
+    "text_similarity": 0.6895134003243146,
+    "similarity_category": "medium",
+    "word_count_grokipedia": 9249,
+    "word_count_wikipedia": 15005,
+    "word_count_diff": -5756,
+    "word_count_diff_pct": -38.360546484505164,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 284,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Cultural influence",
+      "Extraneous writing",
+      "Illustrations",
+      "Paint"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 68.95% (medium)",
+      "Wikipedia version is 38.4% longer (15005 vs 9249 words)",
+      "Wikipedia has 284 more citations (284 vs 0)",
+      "Grokipedia has unique sections: Cultural influence, Extraneous writing, Illustrations",
+      "Wikipedia has unique sections: Introduction",
+      "Wikipedia has an infobox, Grokipedia does not"
+    ],
+    "timestamp": "2025-10-31T15:31:16.503552"
+  },
+  {
+    "topic": "Turritopsis dohrnii",
+    "text_similarity": 0.18353323338330835,
+    "similarity_category": "low",
+    "word_count_grokipedia": 1742,
+    "word_count_wikipedia": 2897,
+    "word_count_diff": -1155,
+    "word_count_diff_pct": -39.868829823955814,
+    "citation_count_grokipedia": 0,
+    "citation_count_wikipedia": 56,
+    "section_overlap": 0.0,
+    "unique_to_grokipedia": [
+      "Taxonomy"
+    ],
+    "unique_to_wikipedia": [
+      "Introduction"
+    ],
+    "key_differences": [
+      "Text similarity: 18.35% (low)",
+      "Wikipedia version is 39.9% longer (2897 vs 1742 words)",
+      "Wikipedia has 56 more citations (56 vs 0)",
+      "Grokipedia has unique sections: Taxonomy",
+      "Wikipedia has unique sections: Introduction"
+    ],
+    "timestamp": "2025-10-31T15:31:19.883969"
+  }
+]

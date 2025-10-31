@@ -1,0 +1,48 @@
+================================================================================
+DETAILED COMPARISON: Voynich manuscript
+================================================================================
+Generated: 2025-10-31 15:31:21
+
+## OVERVIEW
+Text Similarity: 68.95% (medium)
+Levenshtein Distance: 10000
+
+## CONTENT METRICS
+
+Metric                         Grokipedia      Wikipedia       Difference     
+---------------------------------------------------------------------------
+Word Count                     9249            15005           -5756          
+Citations                      0               284             -284           
+External Links                 0               0               0              
+Has Infobox                    False           True                           
+
+## SECTION ANALYSIS
+Section Overlap: 0.00%
+
+Sections unique to Grokipedia:
+  - Cultural influence
+  - Extraneous writing
+  - Illustrations
+  - Paint
+
+Sections unique to Wikipedia:
+  - Introduction
+
+## KEY DIFFERENCES
+
+1. Text similarity: 68.95% (medium)
+2. Wikipedia version is 38.4% longer (15005 vs 9249 words)
+3. Wikipedia has 284 more citations (284 vs 0)
+4. Grokipedia has unique sections: Cultural influence, Extraneous writing, Illustrations
+5. Wikipedia has unique sections: Introduction
+6. Wikipedia has an infobox, Grokipedia does not
+
+## TEXT DIFFERENCES (Sample)
+
+Diff #1 (delete):
+  Wikipedia: Voynich manuscript The Voynich manuscript is an illustrated codex, hand-written in an unknown script referred to as Voynichese. The vellum on which it is written has been carbon-dated to the early 15t...
+
+Diff #2 (insert):
+  Grokipedia: 15th-century codex in an unknown script Voynich manuscriptBeinecke Rare Book and Manuscript LibraryA floral illustration on page 32Also known asBeinecke MS 408TypeCodexDateUnknown; parchment dated to ...
+
+================================================================================

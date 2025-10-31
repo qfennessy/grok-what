@@ -1,0 +1,40 @@
+================================================================================
+DETAILED COMPARISON: Artificial intelligence
+================================================================================
+Generated: 2025-10-31 15:31:21
+
+## OVERVIEW
+Text Similarity: 0.52% (low)
+Levenshtein Distance: 10000
+
+## CONTENT METRICS
+
+Metric                         Grokipedia      Wikipedia       Difference     
+---------------------------------------------------------------------------
+Word Count                     17308           32303           -14995         
+Citations                      0               549             -549           
+External Links                 0               0               0              
+Has Infobox                    False           False                          
+
+## SECTION ANALYSIS
+Section Overlap: 0.00%
+
+Sections unique to Wikipedia:
+  - Introduction
+
+## KEY DIFFERENCES
+
+1. Text similarity: 0.52% (low)
+2. Wikipedia version is 46.4% longer (32303 vs 17308 words)
+3. Wikipedia has 549 more citations (549 vs 0)
+4. Wikipedia has unique sections: Introduction
+
+## TEXT DIFFERENCES (Sample)
+
+Diff #1 (delete):
+  Wikipedia: Artificial intelligence Artificial intelligence (AI) is a subfield of computer science focused on the development of systems that can perform tasks requiring human intelligence, such as perception, re...
+
+Diff #2 (insert):
+  Grokipedia: Intelligence of machines "AI" redirects here. For other uses, see AI (disambiguation) and Artificial intelligence (disambiguation). Part of a series onArtificial intelligence (AI) Major goals Artifici...
+
+================================================================================

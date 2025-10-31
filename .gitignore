@@ -209,8 +209,6 @@ __marimo__/
 # Project-specific
 # Data directories (exclude scraped data and reports)
 data/raw/
-data/processed/
-data/reports/
 
 # Keep directory structure
 !data/raw/.gitkeep
