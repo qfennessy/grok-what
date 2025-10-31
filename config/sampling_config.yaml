@@ -1,0 +1,125 @@
+# Sampling Configuration for Grokipedia vs Wikipedia Comparison
+
+# Overall sampling strategy
+sampling:
+  total_sample_size: 100
+  random_seed: 42
+
+  # Stratified sampling categories and weights
+  categories:
+    popular_pages:
+      weight: 0.25
+      topics:
+        - "United States"
+        - "World War II"
+        - "Python (programming language)"
+        - "Albert Einstein"
+        - "Climate change"
+        - "Artificial intelligence"
+        - "The Beatles"
+        - "COVID-19 pandemic"
+        - "Solar System"
+        - "William Shakespeare"
+
+    controversial:
+      weight: 0.20
+      topics:
+        - "Donald Trump"
+        - "Joe Biden"
+        - "Vladimir Putin"
+        - "Gaza Strip"
+        - "Taiwan"
+        - "Abortion"
+        - "Gun politics in the United States"
+        - "Climate change denial"
+        - "Cryptocurrency"
+        - "Immigration to the United States"
+
+    scientific_technical:
+      weight: 0.20
+      topics:
+        - "Quantum mechanics"
+        - "Theory of relativity"
+        - "DNA"
+        - "Calculus"
+        - "Machine learning"
+        - "Blockchain"
+        - "Periodic table"
+        - "Evolution"
+        - "Big Bang"
+        - "Photosynthesis"
+
+    recent_events:
+      weight: 0.15
+      topics:
+        - "2024 United States presidential election"
+        - "OpenAI"
+        - "SpaceX"
+        - "ChatGPT"
+        - "Elon Musk"
+        - "Sam Altman"
+        - "Taylor Swift"
+        - "Barbie (film)"
+        - "Oppenheimer (film)"
+        - "CRISPR"
+
+    niche_topics:
+      weight: 0.10
+      topics:
+        - "List of pharaohs"
+        - "Voynich manuscript"
+        - "Fermat's Last Theorem"
+        - "Tunguska event"
+        - "Antikythera mechanism"
+        - "Dancing plague of 1518"
+        - "Dyatlov Pass incident"
+        - "Turritopsis dohrnii"
+        - "Göbekli Tepe"
+        - "Oak Island mystery"
+
+    random_sample:
+      weight: 0.10
+      count: 10  # Random articles from both platforms
+
+# Comparison metrics configuration
+metrics:
+  content:
+    - factual_accuracy
+    - completeness_score
+    - text_similarity
+    - semantic_similarity
+
+  structural:
+    - word_count
+    - section_count
+    - citation_count
+    - media_count
+    - infobox_presence
+
+  quality:
+    - readability_scores
+    - citation_density
+    - update_recency
+    - external_links_count
+
+  bias:
+    - sentiment_polarity
+    - subjectivity_score
+    - loaded_language_detection
+    - pov_neutrality
+
+# Scraping configuration
+scraping:
+  rate_limit_delay: 2  # seconds between requests
+  timeout: 30  # seconds
+  max_retries: 3
+  user_agent: "Mozilla/5.0 (Research Project) GrokipediaComparison/1.0"
+  respect_robots_txt: true
+
+# Analysis thresholds
+thresholds:
+  high_similarity: 0.85
+  medium_similarity: 0.60
+  low_similarity: 0.30
+  significant_length_diff: 0.25  # 25% difference
+  citation_density_threshold: 5  # citations per 1000 words
